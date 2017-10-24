@@ -8,6 +8,7 @@ presented by nicole chen and ricky pan
 ## cereal.db schemas
 #### info
 name | mfr | type | shelf | rating
+--- | --- | --- | --- | ---
 name of cereal | manufacturer of cereal | cold or hot | display shelf (1,2,3 counting from floor) | rating of cereal
 
 #### nutrition
