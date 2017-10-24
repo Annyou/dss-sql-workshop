@@ -2,12 +2,18 @@
 
 presented by nicole chen and ricky pan
 
-### environment set-up
+### 0. environment set-up
 
 
-### cereal.db schemas
+### 1. cereal.db schemas
 #### info
+name | mfr | type | shelf | rating
+--- | --- | --- | --- | ---
 
 #### nutrition
+name | calories | protein | fat | sodium | fiber | carbo | sugars | potass | vitamins
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
 #### serving
+name | weight | cups
+--- | --- | ---
