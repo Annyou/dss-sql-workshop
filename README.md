@@ -1,7 +1,6 @@
 # dss-sql-workshop
 
 presented by nicole chen and ricky pan as part of the workshop series brought together by data science society at berkeley
-slides can be found here: http://bit.ly/2h3qcJh
 
 ## pre-workshop
 0. rsvp at http://bit.ly/2h3RFuH
