@@ -1,11 +1,11 @@
 # dss-sql-workshop
 
-presented by nicole chen and ricky pan as part of the workshop series brought together by data science society at berkeley
+presented by nicole chen and ricky pan as part of the data science workshop series brought together by data science society at berkeley
 
 ## pre-workshop
 0. rsvp at http://bit.ly/2h3RFuH
-1. if you'd like, set up your environment by following sqliteSetup.pdf
-2. follow event updates at http://bit.ly/2h3SrYD
+1. follow event updates at http://bit.ly/2h3SrYD
+2. if you'd like, set up your environment by following sqliteSetup.pdf
 
 ## slides
 0. without solution: http://bit.ly/2h3qcJh
@@ -35,7 +35,7 @@ name of cereal | weight in ounces of one serving | number of cups in one serving
 once you have your csv, head here to make some cool visualizations http://evanplaice.github.io/jquery-csv/examples/google-visualization.html
 
 ## feedback form
-[put link here]
+https://goo.gl/forms/ySMEiNf7FEcLFWOi2
 
 ## acknowledgements
 thanks to kaggle for the cereal data (https://www.kaggle.com/crawford/80-cereals) and evanplaice for the jQuery-CSV + Google Visualization API
